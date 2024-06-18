@@ -6,7 +6,7 @@ Cloud deployments
   2. As containerized applications (In cases where the primary runtime language is not supported natively on the platform, such as PHP and render)
 
 ## Docker
-- Understanding basic docker functionality: https://docker-curriculum.com/ 
+- Understanding basic docker functionality: https://docker-curriculum.com/; code found on original repo; https://github.com/prakhar1989/docker-curriculum or my fork; https://github.com/OCHIENGHerman/docker-curriculum
 - Practical using node js (has little overhead and easy to understand- then migrate to your preferred language); https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker 
 - Introducing the concept of CI/CD: https://betterstack.com/community/guides/scaling-nodejs/dockerize-nodejs/ 
 - Deploying dockerized applications: https://docs.render.com/deploy-an-image#image-requirements
